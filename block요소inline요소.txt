@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+</head>
+<body>
+<!-- block요소 -->
+<p>안녕</p>
+<ul>
+	<li>hi</li>
+	<li>hello</li>
+	<li>안녕</li>
+</ul>
+<!-- inline요소 -->
+<a>네이버</a>
+<img src="image/a1.jpg">
+</body>
+</html>
